@@ -13,4 +13,4 @@ This template will deploy a new VM (along with a new VNet and Load Balancer) and
 
 Click the button below to deploy
 
-[![Deploy To Azure](https://raw.githubusercontent.com/nchilders1/ms-ad-template/c6ec3c3c9709515d2916eaf638dcf3b79ba84ea2/images/deploytoazure.svg?sanitize=true)](https://portal.azure.com/#create/Microsoft.Template/uri/https://raw.githubusercontent.com/nchilders1/ms-ad-template/main/azuredeploy.json)  [![Visualize](https://raw.githubusercontent.com/nchilders1/ms-ad-template/c6ec3c3c9709515d2916eaf638dcf3b79ba84ea2/images/deploytoazure.svg?sanitize=true)](http://armviz.io/#/?load=https://raw.githubusercontent.com/nchilders1/ms-ad-template/main/azuredeploy.json)
+[![Deploy To Azure](https://raw.githubusercontent.com/nchilders1/ncpublic/master/images/deploytoazure.svg?sanitize=true)](https://portal.azure.com/#create/Microsoft.Template/uri/https://raw.githubusercontent.com/nchilders1/ms-ad-template/main/azuredeploy.json)  [![Visualize](https://raw.githubusercontent.com/nchilders1/ncpublic/master/images/deploytoazure.svg?sanitize=true)](http://armviz.io/#/?load=https://raw.githubusercontent.com/nchilders1/ms-ad-template/main/azuredeploy.json)
